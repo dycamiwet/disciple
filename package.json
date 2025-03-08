@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "firebase": "^11.4.0",
+    "next": "^15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "name": "disciple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dycamiwet/disciple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dycamiwet/disciple/issues"
+  },
+  "homepage": "https://github.com/dycamiwet/disciple#readme",
+  "description": ""
+}
