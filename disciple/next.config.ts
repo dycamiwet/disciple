@@ -1,7 +1,5 @@
-import { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  reactStrictMode: true,
+const nextConfig = {
+  output: "standalone", // Ensure this is present
 };
 
 export default nextConfig;
